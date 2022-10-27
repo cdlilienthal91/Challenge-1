@@ -7,12 +7,11 @@ Challenge-1 Module-1 10/2022
 Horisen Social Solution Services webpage is set up for Social Marketing. They provide Search engine optimization, Social media marketing, and online reputation manager. 
 Horiseon asked that there HTML and CSS is cleaned up, there links are connected correctly, as well as adding accessability to the page for a better browsing experience.
 
-## Table of Contents (Optional)
+## Table of Contents
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
@@ -27,11 +26,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 4. From Settings, scroll to GitHub Pages section, this is in the section labeled Source. Please select the work from the main branch of the repository.
 
 5. Navigate to <your-github-username>.github.io/<your-repo-name> and you will find that your new web page has gone live! (For example, if your GitHub username is lernantino and the project is css-demo-site, your URL would be lernantino.github.io/css-demo-site)
-## Usage
-```md
-![Horiseon Social Services Website](https://github.com/cdlilienthal91/Challenge-1/blob/main/assets/HoriseonWebPage_10:22.png?raw=true)
-    ```
-    
+
 ## Credits
 
 Created By: [Colton D. Lilienthal](github.com/cdlilienthal91)
