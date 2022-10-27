@@ -1,6 +1,6 @@
 # Challenge-1
 Challenge-1 Module-1 10/2022
-# <Horiseon Social Solution Services Website (Accessability and Link update)>
+# Horiseon Social Solution Services Website (Accessability and Link update)
 
 ## Description
 
@@ -28,8 +28,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 5. Navigate to <your-github-username>.github.io/<your-repo-name> and you will find that your new web page has gone live! (For example, if your GitHub username is lernantino and the project is css-demo-site, your URL would be lernantino.github.io/css-demo-site)
 ## Usage
-![Horiseon Social Services Website](Desktop/Challenge-1/assets/HoriseonWebPage_10/22.png)
-
+```md
+![Horiseon Social Services Website](https://github.com/cdlilienthal91/Challenge-1/blob/main/assets/HoriseonWebPage_10:22.png?raw=true)
+    ```
+    
 ## Credits
 
 Created By: [Colton D. Lilienthal](github.com/cdlilienthal91)
