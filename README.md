@@ -4,7 +4,7 @@ Challenge-1 Module-1 10/2022
 
 ## Description
 
-Horisen Social Solution Services webpage is set up for Social Marketing. They provide Search engine optimization, Social media marketing, and online reputation manager. 
+Horiseon Social Solution Services webpage is set up for Social Marketing. They provide Search engine optimization, Social media marketing, and online reputation manager. 
 Horiseon asked that there HTML and CSS is cleaned up, there links are connected correctly, as well as adding accessability to the page for a better browsing experience.
 
 ## Table of Contents
@@ -29,11 +29,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Credits
 
-Created By: [Colton D. Lilienthal](github.com/cdlilienthal91)
-University of Minnesota BootCamp
-Mozilla
-Visual Studio Code
-Google
+By: [Colton D. Lilienthal](github.com/cdlilienthal91),
 
 ## License
 
